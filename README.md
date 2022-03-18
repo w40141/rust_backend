@@ -12,3 +12,11 @@
 ## frontend
 
 ## sql
+
+- diesel
+- sqlx
+
+## graphql
+
+- async-graphql
+- rusty-gql
