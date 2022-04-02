@@ -1,3 +1,5 @@
+pub mod domain;
+
 use actix_web::{get, web, App, HttpResponse, HttpServer, Responder};
 use std::io;
 
